@@ -64,3 +64,13 @@ li:first-letter {
   font-size: 16px;
   top: -32px;
 }
+
+.active {
+  color: black;
+  cursor: default;
+}
+
+.active:hover {
+  text-decoration: none;
+  color: black;
+}
